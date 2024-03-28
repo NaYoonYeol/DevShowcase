@@ -6,7 +6,7 @@
 
 - [Projects Overview](#projects-overview)
   - [Project 1: Scarlet Nexus 모작](#project-1-scarlet-nexus-모작)[DirectX 11][6인(팀장), 프레임워크, 렌더링 프레임워크, 셰이더, 컷씬 개발 담당)]
-  - [Project 2: 실시간 상호작용 가능한 수면 시뮬레이션](#project-2-name-and-description)[DirectX 11][개인]
+  - [Project 2: 실시간 상호작용 가능한 수면 시뮬레이션](#project-2-실시간-상호작용-가능한-수면-시뮬레이션)[DirectX 11][개인]
   - [추가 갱신 예정입니다...](#)
 - [Technologies Used](#technologies-used)
 - [Contact Me](#contact-me)
@@ -27,7 +27,7 @@
 | 사용언어 및 개발환경 | C++ 17, HLSL, DirectX 11 API, WinAPI, NVIDIA PhysX |
 | 느낀점 | 팀 리더로서의 책임과 동시에 개발자로서의 역량을 크게 향상시킬 수 있는 소중한 경험이었습니다. 프로젝트 진행 중 발생한 어려움과 문제들을 해결하면서 커뮤니케이션 및 문제 해결 능력을 향상시킬 수 있었습니다. 원활한 소통으로 프로젝트를 안정적으로 진행시킬 수 있었습니다. |
 
-### Project 2: Name and Description
+### Project 2: 실시간 상호작용 가능한 수면 시뮬레이션
 
 | 항목 | 상세 정보 |
 | --- | --- |
