@@ -19,6 +19,8 @@
 
 ### Project 1: Scarlet Nexus 모작
 
+[코드 보기](https://github.com/NaYoonYeol/DevShowcase/tree/main/Project_1_Scarlet_Nexus_%EB%AA%A8%EC%9E%91)
+
 | 항목 | 상세 정보 |
 | --- | --- |
 | 작업 기간 | 2개월 (2023.11 - 2024.01) |
