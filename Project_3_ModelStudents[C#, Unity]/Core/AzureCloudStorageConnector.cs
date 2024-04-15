@@ -9,9 +9,7 @@ namespace ModelStudents
     [Author("Yoon")]
     public class AzureCloudStorageConnector
     {
-        private const string CONNECTION_STRING = "DefaultEndpointsProtocol=https;AccountName=modelstudent;" +
-            "AccountKey=m1p8uaP70CDstd10AIlzZ5PmRzOFU1XpNGYeYzc7asviSyRPKqXZlMlzEZGbz0DFHMHYfGrbj0TtFRuqfIr2HQ==;" +
-            "TableEndpoint=https://modelstudent.table.cosmos.azure.com:443/;";
+        private const string CONNECTION_STRING = "???"; // Microsoft Azure Storage Account Key 숨김
 
         private const string EQUIPMENT_INFO_TABLE_NAME = "EquipmentInfoTable";
         private const string ITEM_DROP_TABLE_NAME = "ItemDropTable";
